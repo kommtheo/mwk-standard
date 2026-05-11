@@ -11,4 +11,4 @@ If you are a native Mandarin speaker with a technical background and would like 
 *What is MWK?*
 Menschenwürdige Kommunikation (MWK) — Dignified Communication — is a communication architecture for AI language models and humanoid robots that ensures human self-determination is structurally preserved in every interaction.
 
-*Contact:* mwk@kommtheo-stuttgart.de
+*Contact:* dignity-by-design@kommtheo.de
