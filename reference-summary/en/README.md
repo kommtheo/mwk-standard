@@ -10,7 +10,7 @@ It will include:
 - Pseudocode examples for one application domain
 - A bilingual glossary (EN / DE)
 
-**Estimated availability:** upon book publication, 2026.
+ISBN-10: 3696398977 · ISBN-13: 978-3696398972
 
 ---
 
